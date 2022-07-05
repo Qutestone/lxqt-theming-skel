@@ -1,4 +1,4 @@
-#  EndeavourOs QuteStone lxqt-theming-skel
+#  EndeavourOs QuteStone Project lxqt-theming-skel
 
 LXQT is awesome and deserve a lot intentions from users of everywhere.
 
